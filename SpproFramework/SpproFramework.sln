@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpproFramework", "SpproFramework\SpproFramework.csproj", "{AA624E0A-359B-40A0-B17A-DADB30CBB473}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpproFramework", "SpproFramework\SpproFramework.csproj", "{2C3B5ED4-0553-4D16-BFE1-1D03DD2C9F3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AA624E0A-359B-40A0-B17A-DADB30CBB473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA624E0A-359B-40A0-B17A-DADB30CBB473}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA624E0A-359B-40A0-B17A-DADB30CBB473}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AA624E0A-359B-40A0-B17A-DADB30CBB473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3B5ED4-0553-4D16-BFE1-1D03DD2C9F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3B5ED4-0553-4D16-BFE1-1D03DD2C9F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3B5ED4-0553-4D16-BFE1-1D03DD2C9F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3B5ED4-0553-4D16-BFE1-1D03DD2C9F3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA11293D-BB2C-4D1A-8037-B4430407C37F}
 	EndGlobalSection
 EndGlobal
