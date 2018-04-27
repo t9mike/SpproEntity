@@ -7,8 +7,8 @@
     <ProjectGuid>{2C3B5ED4-0553-4D16-BFE1-1D03DD2C9F3F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SpproFramework2</RootNamespace>
-    <AssemblyName>SpproFramework2</AssemblyName>
+    <RootNamespace>SpproFramework</RootNamespace>
+    <AssemblyName>SpproFramework</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -103,7 +103,9 @@
     <Compile Include="Utilities\TypeUtility.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
